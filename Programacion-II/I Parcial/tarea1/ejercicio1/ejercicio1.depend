@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518748752 source:c:\users\oseas\downloads\universidad\lic. matematicas\programacion ii\tarea1\ejercicio1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
